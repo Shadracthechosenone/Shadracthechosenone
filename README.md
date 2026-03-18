@@ -14,7 +14,7 @@ I'm a **full-stack developer** passionate about crafting clean, scalable applica
 I work across the entire stack — from pixel-perfect mobile UIs to robust backend APIs and databases.
 I learn by shipping **real projects**, not toy examples.
 Currently expanding into **Java Spring Boot** to broaden my backend expertise.
-
+Contact me on bodjuishadrac@gmailcom 
 ---
 
 ## 🛠️ Tech Stack
